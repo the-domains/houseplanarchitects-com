@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Houseplanarchitects.com]]></title>
-        <description><![CDATA[Houseplanarchitects.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[House Plan Architects]]></title>
+        <description><![CDATA[House Plan Architects]]></description>
+        <link>https://thegrid.ai/houseplanarchitects-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 17:03:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 17:16:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/houseplanarchitects-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.houseplanarchitect.com/style/images/slider/house-plan-architect1.jpg">]]></description>
+            <link>http://www.houseplanarchitect.com/</link>
+            <guid isPermaLink="false">8b4129c8-3b4a-4afc-98fd-60a950c6c0e4</guid>
+            <pubDate>Fri, 25 Mar 2016 17:16:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>We Design Houses</p>]]></description>
-            <link>undefined8363f344-9c80-4954-ad99-6801726d509a/index.html</link>
+            <link>https://thegrid.ai/houseplanarchitects-com/8363f344-9c80-4954-ad99-6801726d509a/index.html</link>
             <guid isPermaLink="false">8363f344-9c80-4954-ad99-6801726d509a</guid>
             <pubDate>Fri, 25 Mar 2016 17:03:44 GMT</pubDate>
         </item>
