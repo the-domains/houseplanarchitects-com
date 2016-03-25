@@ -1,7 +1,7 @@
 name: Houseplanarchitects.com
 favicon: null
-layout_spectrum: 0.34206
-typography_spectrum: 0.8494144955184311
+layout_spectrum: 0.61643
+typography_spectrum: 0.28971
 title: House Plan Architects
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.25
-  lightness: 0.5
-  saturation: 0.9375
+  brandStrength: 0.875
+  lightness: 0.8125
+  saturation: 0.25
   rhythmicContrast: 0.5
 purpose: []
