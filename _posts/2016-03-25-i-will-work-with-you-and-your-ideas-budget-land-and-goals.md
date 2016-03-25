@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I will work with you and your ideas, budget, land and goals to come up with a one of a kind house that reflects your goals.'
-datePublished: '2016-03-25T18:49:12.416Z'
-dateModified: '2016-03-25T18:28:22.144Z'
+datePublished: '2016-03-25T18:49:20.503Z'
+dateModified: '2016-03-25T18:49:19.959Z'
 author: []
 title: ''
 authors: []
