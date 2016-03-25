@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Fast, Affordable, Quality house design. Let 30 years of experience guide you on your house plan journey.'
-datePublished: '2016-03-25T18:49:12.357Z'
-dateModified: '2016-03-25T18:37:46.982Z'
+datePublished: '2016-03-25T18:49:19.912Z'
+dateModified: '2016-03-25T18:49:19.227Z'
 author: []
 title: ''
 authors: []
