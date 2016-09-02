@@ -7,16 +7,12 @@ keywords: []
 description: >-
   Fast, Affordable, Quality house design. Let 30 years of experience guide you
   on your house plan journey.
-datePublished: '2016-08-31T03:53:43.400Z'
-dateModified: '2016-08-31T03:53:42.480Z'
+datePublished: '2016-08-31T04:00:09.042Z'
+dateModified: '2016-08-31T04:00:07.913Z'
 author: []
 title: ''
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2016-03-25-fast-affordable-quality-house-design-let-30-years-of-expe.md
 via: {}
 starred: false
