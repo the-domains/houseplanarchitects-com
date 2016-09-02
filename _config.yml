@@ -31,6 +31,9 @@ navigation:
   - name: About Us
     id: 12a891d4-059d-4a4f-bb22-97ace1116e36
     type: content
+  - name: Contact Us
+    id: 7ecfcda0-a097-4a0f-9e16-2a146157265e
+    type: content
 favicon: null
 title: House Plan Architects
 purpose: []
