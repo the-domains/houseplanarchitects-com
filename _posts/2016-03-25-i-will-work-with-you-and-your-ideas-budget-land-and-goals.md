@@ -1,24 +1,22 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.houseplanarchitect.com/'
 inLanguage: null
-starred: false
 keywords: []
-description: 'I will work with you and your ideas, budget, land and goals to come up with a one of a kind house that reflects your goals.'
-datePublished: '2016-03-25T18:49:30.804Z'
-dateModified: '2016-03-25T18:49:29.763Z'
+description: >-
+  I will work with you and your ideas, budget, land and goals to come up with a
+  one of a kind house that reflects your goals.
+datePublished: '2016-08-31T04:00:40.163Z'
+dateModified: '2016-08-31T04:00:39.270Z'
 author: []
 title: ''
 sourcePath: _posts/2016-03-25-i-will-work-with-you-and-your-ideas-budget-land-and-goals.md
-published: true
 authors: []
-publisher:
-  name: houseplanarchitect.com
-  domain: www.houseplanarchitect.com
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
+url: i-will-work-with-you-and-your-ideas-budget-land-and-goals/index.html
 _context: 'http://schema.org'
 _type: Article
 
